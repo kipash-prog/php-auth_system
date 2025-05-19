@@ -41,7 +41,7 @@ A modern and secure user authentication system built with PHP and MySQL, featuri
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/auth_system.git
+   git clone https://github.com/kipash-prog/php-auth_system
    cd auth_system
    ```
 
@@ -155,7 +155,7 @@ For support, please:
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by kidus shimelis
 
 ## Interactive Demo
 
